@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Empower your journey in software engineering with `bayantech.co`! 
 
-### More Information
+At `bayantech.co`, we are your partners in software development and training. Our expert-led training programs equip you for success in the tech industry, while our development team turns ideas into reality.
 
-A place to include any other types of information that you'd like to include about yourself.
+We offer expert-led training programs, cutting-edge curriculum, and hands-on projects to help you thrive in the ever-evolving tech landscape. 
 
-### Contact me
+Join our community, explore our courses, and code the future with `bayantech.co`.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us
+
+[ali@bayantech.co](mailto:ali@bayantech.co)
