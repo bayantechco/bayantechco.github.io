@@ -4,7 +4,7 @@ title: Nos Formations
 permalink: /training/
 ---
 
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains '_trainings'"%}
-{% for item in folder1 %}
-{{item.title}}
+{% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+{% for page in pages %}
+title: {{page.title}}
 {% endfor %}
