@@ -4,14 +4,20 @@ title: About
 permalink: /about/
 ---
 
-### Empower your journey in software engineering with bayantech.co! 
+### Donnez de l'élan à votre parcours en génie logiciel avec bayantech.co !
 
-At bayantech.co, we are your partners in software development and training. Our dedicated development team turns ideas into reality, bringing innovation to life. Simultaneously, our expert-led training programs equip you for success in the tech industry.
+Chez bayantech.co, nous sommes bien plus que des partenaires en ingénierie logicielle et en formation. 
+Nos équipes de développement logiciel dévouées transforment méticuleusement les idées en réalité, 
+insufflant ainsi la vie à l'innovation. En parallèle, nos programmes de formation, dirigés par des experts chevronnés, 
+vous préparent de manière approfondie au succès dans vos projets.
 
-We offer cutting-edge curriculum and hands-on projects, ensuring you thrive in the ever-evolving tech landscape.
+Nous proposons un programme de formation avant-gardiste accompagné de projets pratiques, 
+vous garantissant non seulement une adaptation mais également une prospérité continue dans le paysage 
+technologique en constante évolution.
 
-Join our community, explore our courses, and code the future with bayantech.co.
+Joignez-vous à notre communauté dynamique, explorez nos cours 
+et façonnez l'avenir de la programmation avec bayantech.co.
 
-### Contact us
+Contactez-nous
 
 [ali@bayantech.co](mailto:ali@bayantech.co)

@@ -3,4 +3,7 @@ layout: post
 title: Hello, World!
 ---
 
-🚀 Welcome to the bayantech.co Blog! 🌐 Exciting insights into the world of software development and training await you. Join us on a journey of innovation, skill-building, and shaping the future of tech. Let's code the extraordinary together! 💻✨ #bayantech #TechInnovation #CodeTheFuture
+🚀 Bienvenue sur le Blog de bayantech.co ! 🌐 Des perspectives passionnantes sur le monde du développement logiciel 
+et de la formation vous attendent. Rejoignez-nous pour un voyage d'innovation, de renforcement 
+des compétences et de création du futur de la technologie. Codons l'extraordinaire ensemble ! 
+💻✨ #bayantech #InnovationTechnologique #CoderL'Avenir
