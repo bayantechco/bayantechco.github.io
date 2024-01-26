@@ -18,6 +18,6 @@ technologique en évolution continue.
 Joignez-vous à notre communauté dynamique, explorez nos cours 
 et façonnez l'avenir de la programmation avec bayantech.co.
 
-Contactez-nous
+### Contactez-nous
 
 [ali@bayantech.co](mailto:ali@bayantech.co)
