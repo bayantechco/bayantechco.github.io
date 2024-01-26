@@ -4,6 +4,6 @@ title: Nos Formations
 permalink: /training/
 ---
 
-{% for page in site.trainings %}
+{% for page in site.posts %}
     title: {{page.title}}
 {% endfor %}
