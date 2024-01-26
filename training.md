@@ -4,12 +4,7 @@ title: Nos Formations
 permalink: /training/
 ---
 
-<div class="posts">
-  {% for training in site.trainings %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ training.url }}">{{ training.title }}</a></h1>
-      <a href="{{ site.baseurl }}{{ training.url }}" class="read-more">Read More</a>
-    </article>
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'training'"%}
+{% for item in folder1 %}
+{{item.title}}
 {% endfor %}
-</div>
