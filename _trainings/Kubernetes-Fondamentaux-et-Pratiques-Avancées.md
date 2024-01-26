@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kubernetes - Fondamentaux et Pratiques Avancées
+permalink: /Kubernetes-Fondamentaux-et-Pratiques-Avancées
+---
+
 Kubernetes : Fondamentaux et Pratiques Avancées
 
 Objectifs
