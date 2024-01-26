@@ -4,6 +4,7 @@ title: Nos Formations
 permalink: /training/
 ---
 
-{% for page in site.posts %}
-    title: {{page.title}}
+{% assign pages = site.trainings | where_exp: 'page', 'page.title' %}
+{% for page in pages %}
+title: {{page.title}}
 {% endfor %}
